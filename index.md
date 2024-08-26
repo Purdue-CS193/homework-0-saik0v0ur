@@ -38,14 +38,14 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Testing the Header
 
-##List 1
+## List 1
 
 - Item 1
 - Item 2
 - Item 3
 - Item 4
 
-##List 2
+## List 2
 
 - Item 5
 - Item 6
